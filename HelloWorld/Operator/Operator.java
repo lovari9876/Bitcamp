@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Sample {
+class Operator {
 	//Entry point(시작점)
 	//메인 진입 함수
 	public static void main(String[] args) {
